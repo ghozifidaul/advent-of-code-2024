@@ -1,1 +1,3 @@
-# advent-of-code 2024
+# Advent Of Code 2024
+
+This is a repo for my advent of code challenges code.
